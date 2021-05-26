@@ -1,1 +1,2 @@
-this is index.js file
+//this is index.js file
+console.log("hello git");
